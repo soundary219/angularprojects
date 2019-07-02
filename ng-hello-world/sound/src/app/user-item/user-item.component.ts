@@ -1,4 +1,4 @@
-import { Component, OnInit Input//<--added this
+import { Component, OnInit,Input
 } from '@angular/core';
 
 
